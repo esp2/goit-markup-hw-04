@@ -460,6 +460,7 @@ fill: var(--icons);
 .socials-icon1{
 margin-right: 10px;
 fill: var(--maim-darck-color);
+fill: currentColor;
 }
 
 .socials-icon1:hover{
