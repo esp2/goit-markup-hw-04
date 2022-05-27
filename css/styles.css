@@ -230,6 +230,7 @@ color:rgb(0, 132, 255);
     line-height: 1.62;
     letter-spacing: 0.03em;
     padding: 6px 22px;
+    margin-right: 8px;
   }
 
   .button-primary2 {
@@ -243,6 +244,7 @@ color:rgb(0, 132, 255);
     letter-spacing: 0.03em;
     cursor: pointer;
     padding: 6px 22px;
+    margin-right: 8px;
   }
 
   .section1 {
