@@ -123,7 +123,8 @@ color:rgb(0, 132, 255);
     box-shadow: 0 2px 2px 0 rgb(0,0,0,0.12), 0 1px 2px 0 rgb(0,0,0,0.08), 0 3px 1px 0 rgb(0,0,0,0.1);
   }
 
-  .button-primary:hover {
+  .button-primary:hover,
+    .button-primary:focus {
     background-color: rgb(0, 132, 255) ;
   }
 
@@ -248,7 +249,8 @@ color:rgb(0, 132, 255);
     padding: 6px 22px;
     margin-right: 8px;
   }
-  .button-primary1:hover{
+  .button-primary1:hover,
+  .button-primary1:focus{
     box-shadow: 0 2px 2px 0 rgb(0, 0, 0, 0.12), 0 1px 2px 0 rgb(0, 0, 0, 0.08), 0 3px 1px 0 rgb(0, 0, 0, 0.1);
   }
 
@@ -414,7 +416,8 @@ stroke-linecap: round;
     border-bottom: 1px solid #eeeeee;
     border-left: 1px solid #eeeeee;
   }
-  .tp:hover{
+  .tp:hover,
+  .tp:focus{
   box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
   }
@@ -470,7 +473,8 @@ stroke-linecap: round;
   background-color:#FFFFFF;
   border-radius: 50%;
 }
-.socials-link:hover{
+.socials-link:hover,
+.socials-link:focus{
   background-color: #2196F3;
 }
 .socials-icon{
@@ -486,7 +490,8 @@ fill: var(--maim-darck-color);
 fill: currentColor;
 }
 
-.socials-icon1:hover{
+.socials-icon1:hover,
+.socials-icon1:focus{
   fill: rgb(0, 132, 255);
 }
   .socials-link:hover .socials-icon,
@@ -556,7 +561,8 @@ fill: currentColor;
     margin-bottom: 30px;
     margin: 15px;
   }
-.photo-iteam:hover{
+.photo-iteam:hover,
+.photo-iteam:focus{
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
 }
