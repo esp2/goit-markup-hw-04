@@ -166,7 +166,7 @@ color:rgb(0, 132, 255);
     background-image: var(--maim-darck2-color);
     padding-top: 200px;
     padding-bottom: 200px;
-    background-image: url(../images/css/stylecss.jpg);
+    background-image: url(./images/css/stylecss.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
